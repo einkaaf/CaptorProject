@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Erfan Kazemi M.</Authors>
+    <Product>Captor By Erfan Kazemi</Product>
+    <Description>Simple Persian Captcha For Simple Project </Description>
+    <PackageIcon>icons8-lock-64.png</PackageIcon>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\icons8-lock-64.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SixLabors.ImageSharp" Version="2.1.3" />
+    <PackageReference Include="SixLabors.ImageSharp.Drawing" Version="1.0.0-beta14" />
+  </ItemGroup>
+
+</Project>
