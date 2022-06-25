@@ -74,4 +74,4 @@ var kaptcha = KaptchaBuilder.Init().UseCustomizeFontSize(45).Build();
 
 ## License
 
-[The source code for the site is licensed under the MIT license](https://github.com/erfankm7/Kaptcha/blob/master/LICENSE).
+[The source code for the site is licensed under the MIT license](https://github.com/erfankm7/CaptorProject/blob/master/LICENSE).
