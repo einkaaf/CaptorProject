@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Captor", "Captor\Captor.csproj", "{201D0F40-643A-4B01-9405-281218B0D5B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptorTest", "CaptorTest\CaptorTest.csproj", "{5F1D226C-A231-41B2-B74F-6B7C977BE837}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{201D0F40-643A-4B01-9405-281218B0D5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{201D0F40-643A-4B01-9405-281218B0D5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{201D0F40-643A-4B01-9405-281218B0D5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1D226C-A231-41B2-B74F-6B7C977BE837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1D226C-A231-41B2-B74F-6B7C977BE837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1D226C-A231-41B2-B74F-6B7C977BE837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1D226C-A231-41B2-B74F-6B7C977BE837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
